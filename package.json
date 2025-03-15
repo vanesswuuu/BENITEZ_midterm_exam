@@ -1,0 +1,25 @@
+{
+  "name": "benitez_midterm_exam",
+  "version": "1.0.0",
+  "main": "question1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanesswuuu/BENITEZ_midterm_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanesswuuu/BENITEZ_midterm_exam/issues"
+  },
+  "homepage": "https://github.com/vanesswuuu/BENITEZ_midterm_exam#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "description": ""
+}
